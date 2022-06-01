@@ -1,0 +1,150 @@
+button:hover{
+  color:antiquewhite;
+}
+
+tr{
+  font-family: cursive;
+  text-transform: inherit;
+  font-weight: 600;
+  color:rgb(0, 0, 0) ;
+}
+
+
+body {
+  display: block;
+  margin: 20px;
+  background-color: rgba(14, 13, 13, 0.329);
+  padding-left: 10px;
+}
+
+button{
+  -webkit-writing-mode: horizontal-tb !important;
+  text-rendering: auto;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  text-indent: 0px;
+  text-shadow: none;
+  text-align: left;
+  cursor: default;
+  font: 400 13.3333px Arial;
+  padding-left: 315px;
+  font-style: italic;
+  
+  color:black;
+  background-color: #0abeda;
+  font-family: fantasy;
+  border: rgb(97, 97, 97); 
+  font-size: 18.25px;
+}
+
+form{
+  background-color: rgb(211, 211, 211);
+  background-size: 100%;
+  width: 100%;
+  font-family: fantasy;
+  text-decoration: underline;
+  padding-left: inherit;
+  
+  }
+
+
+table {
+  background-color: rgb(187, 56, 176);
+  
+  padding-bottom: 0;
+  text-decoration: solid;
+  color: black;
+  padding-right: 100px;
+  width: 69%;
+  height: 100px;
+
+  font-family: fantasy;
+  font-size: auto;
+  background-image: url('img/R.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  
+}
+
+
+
+label {
+  color: rgb(204, 0, 255);
+  background-color: rgb(0, 217, 255);
+}
+
+input:not([type="image" i]) {
+  box-sizing: border-box;
+}
+
+input[type="text" i] {
+  padding: 1px 2px;
+}
+
+input {
+  -webkit-writing-mode: horizontal-tb !important;
+  text-rendering: auto;
+  color: -internal-light-dark(black, white);
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  text-indent: 0px;
+  text-shadow: none;
+  display: inline-block;
+  text-align: start;
+  appearance: auto;
+  -webkit-rtl-ordering: logical;
+  cursor: text;
+  margin: 0em;
+  font: 400 13.3333px Arial;
+  padding: 1px 2px;
+  border-width: 2px;
+  border-style: inset;
+  border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+  border-image: initial;
+  background-color: rgb(255, 0, 242) ;
+}
+
+
+h1 {
+  display: table;
+  font-weight: bold;
+  color: black;
+  text-decoration: inherit;
+  text-align: center;
+  padding-left: 370px;
+ 
+}
+
+h5 {
+  display: block;
+  font-size: 2em;
+  margin-block-start: 1.67em;
+  margin-block-end: 1.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
